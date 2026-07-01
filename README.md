@@ -23,4 +23,18 @@
 >The session concluded with a Q&A, where students' doubts regarding the training and internship programs were addressed
 
 ###  **DAY 1 - SL-IV LAB**
->D
+1. After the orientation session, we moved to our respective labs.
+
+2. We had an interactive session with our faculty mentor proffessor khusi, who explained the overall training structure.
+
+3. She guided us on how to prepare and maintain our daily practicals and assignments.
+
+4. She discussed various career opportunities and advised us on choosing the right career path based on our interests and skills.
+
+5. The format and expectations of the institutional training were explained in detail.
+
+6. She assigned a few questions as our first assignment to assess our understanding.
+
+7. We were introduced to a GitHub project where we are required to document and upload our daily training activities throughout the program.
+
+8. She also explained the installation process of Linux and guided us through the steps required to set up the operating system for our practical sessions.
