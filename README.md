@@ -75,3 +75,30 @@
 
 ---
 ** Status:** Day 2 Completed Successfully
+
+# Day 3 – Introduction to BASH & Linux Command Line Essentials
+
+## Topics Covered
+
+### Linux Installation
+- Downloaded and verified Linux ISO.
+- Learned Linux installation on a Virtual Machine and physical hardware.
+
+### BASH Scripting
+- Wrote basic shell scripts.
+- Used variables, `echo`, and simple `if` conditions.
+- Learned to use `man` and `help` for command documentation.
+
+### Text Processing
+- `grep` – Search text using patterns.
+- `awk` – Process and analyze text.
+- `sed` – Edit and transform text streams.
+
+### File Compression
+- `tar` – Archive files.
+- `gzip` – Compress files.
+- `zip` – Create ZIP archives.
+
+## Key Takeaway
+Gained a strong foundation in Linux command-line operations, basic BASH scripting, text-processing utilities, and file compression techniques.
+```
