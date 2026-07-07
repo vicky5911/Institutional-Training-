@@ -101,4 +101,15 @@
 
 ## Key Takeaway
 Gained a strong foundation in Linux command-line operations, basic BASH scripting, text-processing utilities, and file compression techniques.
-```
+
+
+# Day 4 – PC & Network Troubleshooting
+
+## Topics Covered
+
+### PC Hardware Troubleshooting
+- Learned common PC boot issues and their solutions.
+- Diagnosed hardware failures related to RAM, HDD, GPU, and PSU.
+
+## Key Takeaway
+Developed a basic understanding of identifying and troubleshooting common PC hardware and boot-related issues.
