@@ -113,3 +113,47 @@ Gained a strong foundation in Linux command-line operations, basic BASH scriptin
 
 ## Key Takeaway
 Developed a basic understanding of identifying and troubleshooting common PC hardware and boot-related issues.
+
+# Peripheral Troubleshooting
+
+## Keyboard Problems
+
+### Common Issues
+- Keyboard not responding
+- Wrong characters appearing
+- USB connection failure
+
+### Solutions
+- Check USB connection
+- Try another USB port
+- Update keyboard drivers
+- Restart the system
+
+
+## Mouse Problems
+
+### Common Issues
+- Cursor not moving
+- Wireless connection failure
+- Button malfunction
+
+### Solutions
+- Check battery level
+- Reconnect device
+- Update drivers
+- Test on another computer
+
+
+## Printer Problems
+
+### Common Issues
+- Printer offline
+- Paper jam
+- Driver errors
+- Poor print quality
+
+### Solutions
+- Check printer connection
+- Restart printer service
+- Install latest drivers
+- Check ink/toner levels
